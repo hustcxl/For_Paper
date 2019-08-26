@@ -478,4 +478,6 @@ Indicated/Has shown / showed/Address/Highlights
 
 　　76. It is expected to be serious barrier to
 
-　　77. It offers a simple solution in a limited domain for a complex
+　　77. It offers a simple solution in a limited domain for a complex  
+  
+  [:up: go buck to top](#common-vocabulary-and-sentence-patterns-in-english-paper-writing)
