@@ -1,21 +1,21 @@
-　　
+# Common vocabulary and sentence patterns in English paper writing
   我们一般把某一学术课题在理论性、实验性、预测性上具有的科学研究成果的学术文章简称为论文，下面是小编搜集整理的英文论文写作常用词汇及句型，供大家阅读参考。
 
-　　## 一、经典替换词
+## 一、经典替换词
 
-　　1. individuals, characters, folks 替换 people , persons.
+1. individuals, characters, folks 替换 people , persons.
 
-　　2. positive, favorable, rosy, promising, perfect, pleasurable, excellent, outstanding, superior 替换 good.
+2. positive, favorable, rosy, promising, perfect, pleasurable, excellent, outstanding, superior 替换 good.
 
-　　3. dreadful, unfavorable, poor, adverse, ill 替换 bad(如果bad做表语，可以有be less impressive替换。)
+3. dreadful, unfavorable, poor, adverse, ill 替换 bad(如果bad做表语，可以有be less impressive替换。)
 
-　　4. an army of, an ocean of, a sea of, a multitude of, a host of, if not most 替换 many.
+4. an army of, an ocean of, a sea of, a multitude of, a host of, if not most 替换 many.
 
-　　5. a slice of, quiet a few 替换 some.
+5. a slice of, quiet a few 替换 some.
 
-　　6. harbor the idea that, take the attitude that, hold the view that, it is widely shared that, it is universally acknowledged that 替换 think。
+6. harbor the idea that, take the attitude that, hold the view that, it is widely shared that, it is universally acknowledged that 替换 think。
 
-　　7. affair, business, matter 替换 thing.
+7. affair, business, matter 替换 thing.
 
 　　8. shared 替换 common .
 
@@ -111,9 +111,9 @@
 
 　　48.常见的连接词有，However, also, in addition, consequently, afterwards, moreover, Furthermore, further, although, unlike, in contrast, Similarly, Unfortunately, alternatively, parallel results, In order to, despite, For example, Compared with, other results, thus, therefore……用好连接词能使文章层次清楚，意思明确。比如，叙述有时间顺序的事件或文献，最早的文献可用AA advocated it for the first time.接下来可用Then BB further demonstrated that. 再接下来，可用Afterwards, CC……如果还有，可用More recent studies by DD……
 
-　##　二、常用句型
+## 二、常用句型
 
-　　### Beginning
+### Beginning
 
 　　1. In this paper, we focus on the need for
 
@@ -125,7 +125,7 @@
 
 　　5. To begin with we will provide a brief background on the
 
-　　### Introduction
+### Introduction
 
 　　1. This will be followed by a description of the fuzzy nature of the problem and a detailed presentation of how the required membership functions are defined.
 
@@ -133,7 +133,7 @@
 
 　　3. In the next section, after a statement of the basic problem, various situations involving possibility knowledge are investigated: first, an entirely possibility model is proposed; then the cases of a fuzzy service time with stochastic arrivals and non fuzzy service rule is studied; lastly, fuzzy service rule are considered.
 
-　　### Review
+### Review
 
 　　1. This review is followed by an introduction.
 
@@ -147,7 +147,7 @@
 
 　　6. Section 1.1 briefly surveys the motivation for a methodology of action, while 1.2 looks at the difficulties posed by the complexity of systems and outlines the need for development of possibility methods.
 
-　　### Body
+### Body
 
 　　1. Section 1 defines the notion of robustness, and argues for its importance.
 
@@ -203,7 +203,7 @@
 
 　　27. In Section 5 is analyzed the inference process through the two kinds of inference experiments…
 
-　 ###　This Section
+###　This Section
 
 　　1. In this section, the characteristics and environment under which MRP is designed are described.
 
@@ -219,7 +219,7 @@
 
 　　6. The next section summarizes the method in a from that is useful for arguments based on xx
 
-　　### Summary
+### Summary
 
 　　1. This paper concludes with a discussion of future research consideration in section 5.
 
@@ -235,7 +235,7 @@
 
 　　7. Section 7 is the conclusion of the paper.
 
-　　### Chapter 0. Abstract
+### Chapter 0. Abstract
 
 　　1. A basic problem in the design of xx is presented by the choice of a xx rate for the measurement of experimental variables.
 
@@ -283,7 +283,7 @@
 
 　　23. A didactic example is included to illustrate the computational procedure
 
-　　### Time
+### Time
 
 　　1. Over the course of the past 30 years, .. has emerged form intuitive
 
@@ -311,7 +311,7 @@
 
 　　13. To date, none of the methods developed is perfect and all are far from ready to be used in commercial systems.
 
-　　### Objective / Goal / Purpose
+### Objective / Goal / Purpose
 
 　　1. The purpose of the inference engine can be outlined as follows:
 
@@ -405,7 +405,7 @@
 
 　　45. Proposed/Presented/State that/Described/Illustrated/
 
-　　Indicated/Has shown / showed/Address/Highlights
+Indicated/Has shown / showed/Address/Highlights
 
 　　46. Point out that the problem of
 
