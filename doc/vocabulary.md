@@ -1,7 +1,13 @@
 # table of contents
 * [一、经典替换词](#一经典替换词)
 * [二、常用句型](#二常用句型)
-
+  * [Beginning](#beginning)
+  * [Review](#review)
+  * [Body](#body)
+  * [This Section](#this-section)
+  * [Chapter 0 .abstract](#chapter-0-abstract)
+  * [Time](#time)
+  * [Objective/Goal/Purpose](#objective--goal--purpose)
 
 # Common vocabulary and sentence patterns in English paper writing
   我们一般把某一学术课题在理论性、实验性、预测性上具有的科学研究成果的学术文章简称为论文，下面是小编搜集整理的英文论文写作常用词汇及句型，供大家阅读参考。
