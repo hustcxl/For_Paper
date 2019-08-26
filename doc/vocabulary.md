@@ -1,6 +1,6 @@
 # table of contents
-* [一、经典替换词](# 一、经典替换词)
-* [二、常用句型](# 二、常用句型)
+* [一、经典替换词](#一经典替换词)
+* [二、常用句型](#二常用句型)
 
 
 # Common vocabulary and sentence patterns in English paper writing
