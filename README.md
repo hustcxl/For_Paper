@@ -11,5 +11,6 @@ Accumulation of paper writing materials
 
 ## The field of my research
 - [Paper reading notes](./doc/ReadingNotes.md)
+- [Glossary](./doc/glossary.md)
 
 
