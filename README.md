@@ -8,6 +8,7 @@ Accumulation of paper writing materials
 ## Writing Skills
 
 ## Tools
+- [PGF and TiKZ examples gallery](http://www.texample.net/tikz/examples/)
 
 ## The field of my research
 - [Paper reading notes](./doc/ReadingNotes.md)
